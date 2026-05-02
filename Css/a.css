@@ -1,0 +1,275 @@
+:root {
+  --green: #0a8f6a;
+  --green-dark: #066b4f;
+  --bg: #eef3f1;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  background: var(--bg);
+  overflow-x: hidden;
+}
+
+/* ===== LAYOUT ===== */
+
+.admin-layout {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  min-height: 100vh;
+}
+
+/* ===== SIDEBAR ===== */
+
+.admin-sidebar {
+  background: linear-gradient(180deg, var(--green), var(--green-dark));
+  color: white;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.admin-sidebar h2 {
+  margin-bottom: 20px;
+}
+
+.admin-sidebar a {
+  display: block;
+  padding: 12px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.admin-sidebar a:hover {
+  background: rgba(255,255,255,0.2);
+}
+
+.logout {
+  margin-top: auto;
+  background: #8a0612;
+}
+
+/* ===== MAIN ===== */
+
+.admin-main {
+  padding: 30px;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* ===== STATS ===== */
+
+.admin-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+.stat-card {
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+.stat-card h3 {
+  font-size: 28px;
+  color: var(--green);
+}
+
+/* ===== SEARCH ===== */
+
+.search-box {
+  display: grid;
+  grid-template-columns: 1fr 150px;
+  gap: 10px;
+  margin: 30px 0;
+}
+
+.search-box input,
+.search-box button {
+  padding: 12px;
+  border-radius: 12px;
+  border: none;
+}
+
+.search-box button {
+  background: var(--green);
+  color: white;
+  cursor: pointer;
+}
+
+/* ===== STUDENT CARD ===== */
+
+.student-admin-card {
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+/* ===== COURSE ROW ===== */
+
+.course-admin-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.course-admin-row input {
+  width: 70px;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+/* ===== ADD STUDENT ===== */
+
+.add-student-form {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 10px;
+}
+
+.add-student-form input,
+.add-student-form button {
+  padding: 12px;
+  border-radius: 12px;
+  border: none;
+}
+
+.add-student-form button {
+  background: var(--green);
+  color: white;
+  cursor: pointer;
+}
+
+/* ===== CHARTS ===== */
+
+.charts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.chart-card {
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+/* ===== BAR CHART ===== */
+
+.bar-chart {
+  display: flex;
+  justify-content: space-around;
+  align-items: end;
+  height: 180px;
+  margin-top: 20px;
+}
+
+.bar {
+  width: 40px;
+  border-radius: 10px;
+  animation: growBar 1s ease;
+}
+
+.green { background: var(--green); }
+.red { background: #c0392b; }
+.orange { background: #f39c12; }
+
+@keyframes growBar {
+  from { height: 0; }
+}
+
+/* ===== PIE ===== */
+
+.pie-chart {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  margin: auto;
+}
+
+/* ===== RANKING BOX ===== */
+
+.ranking-container {
+  margin-top: 40px;
+}
+
+.ranking-list-box {
+  height: 420px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  padding-right: 8px;
+}
+
+/* Smooth scrollbar */
+
+.ranking-list-box::-webkit-scrollbar {
+  width: 8px;
+}
+
+.ranking-list-box::-webkit-scrollbar-thumb {
+  background: var(--green);
+  border-radius: 10px;
+}
+
+/* ===== RANK ROW ===== */
+
+.ranking-row-pro {
+  display: flex;
+  justify-content: space-between;
+  padding: 14px;
+  border-radius: 12px;
+  background: white;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+/* ===== FIX HORIZONTAL SCROLL ===== */
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+section,
+.admin-main,
+.admin-sidebar {
+  max-width: 100%;
+}
+
+/* ===== RESPONSIVE ===== */
+
+@media(max-width: 900px) {
+  .admin-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .admin-sidebar {
+    position: relative;
+    height: auto;
+  }
+
+  .search-box {
+    grid-template-columns: 1fr;
+  }
+}

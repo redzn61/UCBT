@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Université Chadli Bendjedid</title>
+  <link rel="stylesheet" href="../Css/contact.css">
+</head>
+
+<body>
+
+<header class="header">
+  <div class="container nav">
+    <a href="index.html" class="brand">
+      <img src="../Media/Pictures/logo.png" alt="Logo">
+      <div>
+        <strong>جامعة الشاذلي بن جديد - الطارف</strong>
+        <span>UNIVERSITÉ CHADLI BENDJEDID - EL TARF</span>
+      </div>
+    </a>
+
+    <nav class="menu">
+      <a href="index.html">Accueil</a>
+      <a href="about.html">À propos</a>
+      <a href="departments.html">Départements</a>
+      <a href="news.html">Actualités</a>
+      <a href="contact.html" class="active">Contact</a>
+    </nav>
+
+    <a href="portal.html" class="portal-btn">👤 Portail Étudiant</a>
+  </div>
+</header>
+
+<main>
+
+<section class="contact-hero">
+  <div class="blob blob-one"></div>
+  <div class="blob blob-two"></div>
+
+  <div class="container hero-grid">
+    <div>
+      <p class="tag">Contact</p>
+      <h1>Contactez notre université</h1>
+      <p>
+        Une question ? Une demande d’information ? Notre équipe est disponible
+        pour vous accompagner et répondre à vos besoins.
+      </p>
+    </div>
+
+    <div class="hero-card">
+      <h3>Réponse rapide</h3>
+      <p>Nous répondons généralement aux messages dans les plus brefs délais.</p>
+      <div class="hero-mini">
+        <span>📧 Email</span>
+        <span>📍 El Tarf</span>
+        <span>🕘 08:00 - 16:00</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="contact-section">
+  <div class="container contact-grid">
+
+    <form class="contact-form" action="../Backend/contact.php" method="post">
+      <p class="tag">Envoyer un message</p>
+      <h2>Écrivez-nous</h2>
+
+      <div class="input-row">
+        <div>
+          <label>Nom complet</label>
+          <input type="text" name="fullname" placeholder="Votre nom" required>
+        </div>
+
+        <div>
+          <label>Email</label>
+          <input type="email" name="email" placeholder="votre@email.com" required>
+        </div>
+      </div>
+
+      <label>Sujet</label>
+      <input type="text" name="subject" placeholder="Sujet de votre message" required>
+
+      <label>Message</label>
+      <textarea name="message" placeholder="Écrivez votre message ici..." required></textarea>
+
+      <button type="submit">Envoyer le message →</button>
+    </form>
+
+    <div class="contact-info">
+      <div class="info-card green">
+        <span>📍</span>
+        <div>
+          <h3>Adresse</h3>
+          <p>BP N° 73, El Tarf, Algeria</p>
+        </div>
+      </div>
+
+      <div class="info-card red">
+        <span>📞</span>
+        <div>
+          <h3>Téléphone</h3>
+          <p>038300943</p>
+        </div>
+      </div>
+
+      <div class="info-card green">
+        <span>📧</span>
+        <div>
+          <h3>Email</h3>
+          <p>relexuniveltarf36@univ-eltarf.dz</p>
+        </div>
+      </div>
+
+      <div class="info-card red">
+        <span>🕘</span>
+        <div>
+          <h3>Horaires</h3>
+          <p>Dimanche - Jeudi : 08:00 - 16:00</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<section class="map-section">
+  <div class="container">
+    <div class="map-box">
+      <div>
+        <p class="tag">Localisation</p>
+        <h2>Université Chadli Bendjedid - El Tarf</h2>
+        <p>Retrouvez notre campus principal à El Tarf.</p>
+      </div>
+
+    <div class="real-map">
+  <iframe
+    src="https://www.google.com/maps?q=Université%20Chadli%20Bendjedid%20El%20Tarf&output=embed"
+    width="100%"
+    height="100%"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy">
+  </iframe>
+</div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+
+    <div class="footer-brand">
+      <img src="/Media/Pictures/logo.png" alt="Logo">
+      <h3>Université Chadli Bendjedid</h3>
+      <p>Une université moderne dédiée à l’excellence, la recherche et l’innovation.</p>
+    </div>
+
+    <div>
+      <h4>Navigation</h4>
+      <a href="index.html">Accueil</a>
+      <a href="about.html">À propos</a>
+      <a href="departments.html">Départements</a>
+      <a href="news.html">Actualités</a>
+    </div>
+
+    <div>
+      <h4>Services</h4>
+      <a href="portal.php">Portail Étudiant</a>
+    </div>
+
+    <div>
+      <h4>Contact</h4>
+      <p>📍 BP N° 73, El Tarf, Algeria</p>
+      <p>📧 relexuniveltarf36@univ-eltarf.dz</p>
+      <p>☎ 038300943</p>
+      <a href="creators.html" class="created-btn">✨ Created By</a>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    © 2026 Université Chadli Bendjedid - El Tarf. Tous droits réservés.
+  </div>
+</footer>
+
+</body>
+</html>

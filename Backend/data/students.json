@@ -1,0 +1,5906 @@
+[
+    {
+        "id": "202336326511",
+        "password": "Bxx6TRE",
+        "name": "Sara Hamdi",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "student-sara.jpg",
+        "card_number": "UCB-2023-36326511",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 79,
+                "absence": 2,
+                "td": 20,
+                "exam": 20,
+                "note": 20,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 68,
+                "absence": 3,
+                "td": 14,
+                "exam": 15,
+                "note": 14.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 88,
+                "absence": 1,
+                "td": 12,
+                "exam": 8,
+                "note": 9.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 91,
+                "absence": 3,
+                "td": 17,
+                "exam": 12,
+                "note": 14,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 80,
+                "absence": 1,
+                "td": 10,
+                "exam": 7,
+                "note": 8.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 91,
+                "absence": 2,
+                "td": 12,
+                "exam": 8,
+                "note": 9.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202336326512",
+        "password": "Cxx7TRE",
+        "name": "Yacine Belaid",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "student-ahmed.jpg",
+        "card_number": "UCB-2023-36326512",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 80,
+                "absence": 1,
+                "td": 11,
+                "exam": 19,
+                "note": 15.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 67,
+                "absence": 1,
+                "td": 19,
+                "exam": 17,
+                "note": 17.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 89,
+                "absence": 2,
+                "td": 16,
+                "exam": 19,
+                "note": 17.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 85,
+                "absence": 4,
+                "td": 16,
+                "exam": 17,
+                "note": 16.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 70,
+                "absence": 4,
+                "td": 14,
+                "exam": 13,
+                "note": 13.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 87,
+                "absence": 0,
+                "td": 9,
+                "exam": 19,
+                "note": 15,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202336326513",
+        "password": "Dxx8TRE",
+        "name": "Amine Kaci",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "student-amine.jpg",
+        "card_number": "UCB-2023-36326513",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 64,
+                "absence": 1,
+                "td": 18,
+                "exam": 15,
+                "note": 16.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 85,
+                "absence": 5,
+                "td": 17,
+                "exam": 14,
+                "note": 15.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 79,
+                "absence": 3,
+                "td": 14,
+                "exam": 14,
+                "note": 14,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 97,
+                "absence": 4,
+                "td": 16,
+                "exam": 13,
+                "note": 14.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 78,
+                "absence": 4,
+                "td": 8,
+                "exam": 12,
+                "note": 10.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 86,
+                "absence": 2,
+                "td": 14,
+                "exam": 17,
+                "note": 15.8,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202336326514",
+        "password": "Exx9TRE",
+        "name": "Nour Bensalem",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "student-nour.jpg",
+        "card_number": "UCB-2023-36326514",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 63,
+                "absence": 3,
+                "td": 15,
+                "exam": 9,
+                "note": 11.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 84,
+                "absence": 4,
+                "td": 19,
+                "exam": 8,
+                "note": 12.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 65,
+                "absence": 3,
+                "td": 18,
+                "exam": 8,
+                "note": 12,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 72,
+                "absence": 2,
+                "td": 11,
+                "exam": 14,
+                "note": 12.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 73,
+                "absence": 1,
+                "td": 10,
+                "exam": 14,
+                "note": 12.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 88,
+                "absence": 0,
+                "td": 14,
+                "exam": 11,
+                "note": 12.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202336326515",
+        "password": "Fxx1TRE",
+        "name": "Karim Saadi",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "student-karim.jpg",
+        "card_number": "UCB-2023-36326515",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 94,
+                "absence": 2,
+                "td": 9,
+                "exam": 13,
+                "note": 11.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 94,
+                "absence": 4,
+                "td": 10,
+                "exam": 7,
+                "note": 8.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 92,
+                "absence": 3,
+                "td": 9,
+                "exam": 14,
+                "note": 12,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 99,
+                "absence": 0,
+                "td": 10,
+                "exam": 14,
+                "note": 12.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 78,
+                "absence": 3,
+                "td": 16,
+                "exam": 11,
+                "note": 13,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 71,
+                "absence": 3,
+                "td": 13,
+                "exam": 9,
+                "note": 10.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232676",
+        "password": "2676",
+        "name": "ADJAILIA HIBAT ALLAH",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2676",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 76,
+                "absence": 1,
+                "td": 19,
+                "exam": 8,
+                "note": 12.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 80,
+                "absence": 1,
+                "td": 18,
+                "exam": 11,
+                "note": 13.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 97,
+                "absence": 5,
+                "td": 15,
+                "exam": 17,
+                "note": 16.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 78,
+                "absence": 2,
+                "td": 8,
+                "exam": 18,
+                "note": 14,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 90,
+                "absence": 5,
+                "td": 12,
+                "exam": 17,
+                "note": 15,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 93,
+                "absence": 4,
+                "td": 13,
+                "exam": 9,
+                "note": 10.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232677",
+        "password": "2677",
+        "name": "AHMED MALEK ASSIA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2677",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 97,
+                "absence": 5,
+                "td": 9,
+                "exam": 18,
+                "note": 14.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 90,
+                "absence": 0,
+                "td": 11,
+                "exam": 14,
+                "note": 12.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 99,
+                "absence": 2,
+                "td": 12,
+                "exam": 13,
+                "note": 12.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 87,
+                "absence": 0,
+                "td": 11,
+                "exam": 10,
+                "note": 10.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 68,
+                "absence": 0,
+                "td": 13,
+                "exam": 10,
+                "note": 11.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 93,
+                "absence": 1,
+                "td": 15,
+                "exam": 7,
+                "note": 10.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232678",
+        "password": "2678",
+        "name": "AMER MEDJANI IMEN",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2678",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 64,
+                "absence": 4,
+                "td": 9,
+                "exam": 11,
+                "note": 10.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 80,
+                "absence": 0,
+                "td": 13,
+                "exam": 15,
+                "note": 14.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 100,
+                "absence": 5,
+                "td": 12,
+                "exam": 9,
+                "note": 10.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 74,
+                "absence": 3,
+                "td": 11,
+                "exam": 10,
+                "note": 10.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 65,
+                "absence": 0,
+                "td": 16,
+                "exam": 7,
+                "note": 10.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 60,
+                "absence": 4,
+                "td": 18,
+                "exam": 10,
+                "note": 13.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232679",
+        "password": "2679",
+        "name": "BARA CHIFA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2679",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 92,
+                "absence": 3,
+                "td": 17,
+                "exam": 11,
+                "note": 13.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 90,
+                "absence": 3,
+                "td": 15,
+                "exam": 9,
+                "note": 11.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 65,
+                "absence": 5,
+                "td": 14,
+                "exam": 18,
+                "note": 16.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 80,
+                "absence": 2,
+                "td": 13,
+                "exam": 9,
+                "note": 10.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 78,
+                "absence": 2,
+                "td": 16,
+                "exam": 9,
+                "note": 11.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 89,
+                "absence": 3,
+                "td": 16,
+                "exam": 18,
+                "note": 17.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232680",
+        "password": "2680",
+        "name": "BAZID IHEB MOHAMED RABIE",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2680",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 62,
+                "absence": 4,
+                "td": 10,
+                "exam": 19,
+                "note": 15.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 60,
+                "absence": 2,
+                "td": 17,
+                "exam": 11,
+                "note": 13.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 86,
+                "absence": 0,
+                "td": 9,
+                "exam": 19,
+                "note": 15,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 86,
+                "absence": 3,
+                "td": 14,
+                "exam": 15,
+                "note": 14.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 88,
+                "absence": 2,
+                "td": 14,
+                "exam": 12,
+                "note": 12.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 73,
+                "absence": 3,
+                "td": 9,
+                "exam": 12,
+                "note": 10.8,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232681",
+        "password": "2681",
+        "name": "BEDDIAF SAADEDDINE",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2681",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 81,
+                "absence": 3,
+                "td": 12,
+                "exam": 11,
+                "note": 11.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 93,
+                "absence": 4,
+                "td": 18,
+                "exam": 13,
+                "note": 15,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 77,
+                "absence": 3,
+                "td": 11,
+                "exam": 7,
+                "note": 8.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 69,
+                "absence": 0,
+                "td": 18,
+                "exam": 10,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 87,
+                "absence": 4,
+                "td": 10,
+                "exam": 10,
+                "note": 10,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 97,
+                "absence": 4,
+                "td": 11,
+                "exam": 8,
+                "note": 9.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232682",
+        "password": "2682",
+        "name": "BOUCETTA ABDELDJLIL",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2682",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 79,
+                "absence": 4,
+                "td": 14,
+                "exam": 18,
+                "note": 16.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 100,
+                "absence": 2,
+                "td": 13,
+                "exam": 13,
+                "note": 13,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 87,
+                "absence": 0,
+                "td": 9,
+                "exam": 7,
+                "note": 7.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 90,
+                "absence": 1,
+                "td": 8,
+                "exam": 9,
+                "note": 8.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 72,
+                "absence": 4,
+                "td": 15,
+                "exam": 12,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 66,
+                "absence": 2,
+                "td": 14,
+                "exam": 18,
+                "note": 16.4,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232683",
+        "password": "2683",
+        "name": "BOUGUERRA AROUA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2683",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 95,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 89,
+                "absence": 0,
+                "td": 16,
+                "exam": 19,
+                "note": 17.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 100,
+                "absence": 4,
+                "td": 12,
+                "exam": 19,
+                "note": 16.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 95,
+                "absence": 3,
+                "td": 14,
+                "exam": 18,
+                "note": 16.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 65,
+                "absence": 4,
+                "td": 10,
+                "exam": 9,
+                "note": 9.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 73,
+                "absence": 3,
+                "td": 18,
+                "exam": 9,
+                "note": 12.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232684",
+        "password": "2684",
+        "name": "BOURAKOUA ALLAA EDDINE",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2684",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 60,
+                "absence": 2,
+                "td": 11,
+                "exam": 10,
+                "note": 10.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 86,
+                "absence": 0,
+                "td": 18,
+                "exam": 19,
+                "note": 18.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 80,
+                "absence": 5,
+                "td": 16,
+                "exam": 14,
+                "note": 14.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 88,
+                "absence": 3,
+                "td": 15,
+                "exam": 18,
+                "note": 16.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 84,
+                "absence": 0,
+                "td": 18,
+                "exam": 15,
+                "note": 16.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 83,
+                "absence": 2,
+                "td": 12,
+                "exam": 8,
+                "note": 9.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232685",
+        "password": "2685",
+        "name": "CHOUARFIA ABDE NOUR",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2685",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 67,
+                "absence": 1,
+                "td": 16,
+                "exam": 7,
+                "note": 10.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 94,
+                "absence": 2,
+                "td": 17,
+                "exam": 18,
+                "note": 17.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 61,
+                "absence": 4,
+                "td": 14,
+                "exam": 18,
+                "note": 16.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 93,
+                "absence": 1,
+                "td": 12,
+                "exam": 8,
+                "note": 9.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 72,
+                "absence": 3,
+                "td": 19,
+                "exam": 12,
+                "note": 14.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 85,
+                "absence": 4,
+                "td": 15,
+                "exam": 17,
+                "note": 16.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232686",
+        "password": "2686",
+        "name": "DAROUI IMANE",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2686",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 100,
+                "absence": 0,
+                "td": 9,
+                "exam": 16,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 69,
+                "absence": 0,
+                "td": 13,
+                "exam": 17,
+                "note": 15.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 91,
+                "absence": 0,
+                "td": 8,
+                "exam": 9,
+                "note": 8.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 89,
+                "absence": 4,
+                "td": 11,
+                "exam": 19,
+                "note": 15.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 98,
+                "absence": 4,
+                "td": 15,
+                "exam": 7,
+                "note": 10.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 64,
+                "absence": 4,
+                "td": 9,
+                "exam": 17,
+                "note": 13.8,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232687",
+        "password": "2687",
+        "name": "DIAF Mounir",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2687",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 72,
+                "absence": 1,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 68,
+                "absence": 2,
+                "td": 17,
+                "exam": 16,
+                "note": 16.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 93,
+                "absence": 3,
+                "td": 13,
+                "exam": 16,
+                "note": 14.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 91,
+                "absence": 3,
+                "td": 18,
+                "exam": 11,
+                "note": 13.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 68,
+                "absence": 1,
+                "td": 13,
+                "exam": 18,
+                "note": 16,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 78,
+                "absence": 2,
+                "td": 14,
+                "exam": 14,
+                "note": 14,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232688",
+        "password": "2688",
+        "name": "DRICI RADIA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2688",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 73,
+                "absence": 0,
+                "td": 18,
+                "exam": 19,
+                "note": 18.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 90,
+                "absence": 1,
+                "td": 14,
+                "exam": 17,
+                "note": 15.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 94,
+                "absence": 1,
+                "td": 9,
+                "exam": 13,
+                "note": 11.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 98,
+                "absence": 4,
+                "td": 10,
+                "exam": 15,
+                "note": 13,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 81,
+                "absence": 4,
+                "td": 14,
+                "exam": 8,
+                "note": 10.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 75,
+                "absence": 5,
+                "td": 14,
+                "exam": 10,
+                "note": 11.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232689",
+        "password": "2689",
+        "name": "FERHANI HIBA ERRAHMANE",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2689",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 78,
+                "absence": 3,
+                "td": 15,
+                "exam": 12,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 86,
+                "absence": 2,
+                "td": 15,
+                "exam": 8,
+                "note": 10.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 87,
+                "absence": 0,
+                "td": 14,
+                "exam": 14,
+                "note": 14,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 69,
+                "absence": 2,
+                "td": 13,
+                "exam": 11,
+                "note": 11.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 76,
+                "absence": 3,
+                "td": 8,
+                "exam": 15,
+                "note": 12.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 100,
+                "absence": 3,
+                "td": 8,
+                "exam": 13,
+                "note": 11,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232690",
+        "password": "2690",
+        "name": "GUENNEZ ABDESLEM",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2690",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 73,
+                "absence": 5,
+                "td": 18,
+                "exam": 14,
+                "note": 15.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 65,
+                "absence": 0,
+                "td": 10,
+                "exam": 17,
+                "note": 14.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 89,
+                "absence": 0,
+                "td": 11,
+                "exam": 11,
+                "note": 11,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 74,
+                "absence": 1,
+                "td": 13,
+                "exam": 18,
+                "note": 16,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 66,
+                "absence": 3,
+                "td": 11,
+                "exam": 14,
+                "note": 12.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 70,
+                "absence": 3,
+                "td": 8,
+                "exam": 9,
+                "note": 8.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232691",
+        "password": "2691",
+        "name": "HENCHIRI IBTISSAM",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2691",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 95,
+                "absence": 4,
+                "td": 13,
+                "exam": 11,
+                "note": 11.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 82,
+                "absence": 2,
+                "td": 19,
+                "exam": 17,
+                "note": 17.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 91,
+                "absence": 3,
+                "td": 8,
+                "exam": 13,
+                "note": 11,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 92,
+                "absence": 5,
+                "td": 13,
+                "exam": 12,
+                "note": 12.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 80,
+                "absence": 0,
+                "td": 9,
+                "exam": 18,
+                "note": 14.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 100,
+                "absence": 4,
+                "td": 11,
+                "exam": 15,
+                "note": 13.4,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232692",
+        "password": "2692",
+        "name": "KHEDIRI SALSABIL",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2692",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 95,
+                "absence": 3,
+                "td": 18,
+                "exam": 15,
+                "note": 16.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 62,
+                "absence": 5,
+                "td": 11,
+                "exam": 18,
+                "note": 15.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 65,
+                "absence": 1,
+                "td": 19,
+                "exam": 8,
+                "note": 12.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 68,
+                "absence": 4,
+                "td": 16,
+                "exam": 14,
+                "note": 14.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 90,
+                "absence": 4,
+                "td": 18,
+                "exam": 18,
+                "note": 18,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 66,
+                "absence": 2,
+                "td": 9,
+                "exam": 19,
+                "note": 15,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232693",
+        "password": "2693",
+        "name": "KHELAIFIA NOUR EL HOUDA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2693",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 74,
+                "absence": 2,
+                "td": 12,
+                "exam": 7,
+                "note": 9,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 76,
+                "absence": 3,
+                "td": 17,
+                "exam": 9,
+                "note": 12.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 93,
+                "absence": 1,
+                "td": 9,
+                "exam": 8,
+                "note": 8.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 60,
+                "absence": 4,
+                "td": 12,
+                "exam": 13,
+                "note": 12.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 91,
+                "absence": 5,
+                "td": 8,
+                "exam": 12,
+                "note": 10.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 92,
+                "absence": 5,
+                "td": 16,
+                "exam": 16,
+                "note": 16,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232694",
+        "password": "2694",
+        "name": "LACHEB SELMA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2694",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 81,
+                "absence": 3,
+                "td": 9,
+                "exam": 10,
+                "note": 9.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 60,
+                "absence": 5,
+                "td": 12,
+                "exam": 10,
+                "note": 10.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 87,
+                "absence": 3,
+                "td": 17,
+                "exam": 10,
+                "note": 12.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 79,
+                "absence": 0,
+                "td": 9,
+                "exam": 13,
+                "note": 11.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 83,
+                "absence": 3,
+                "td": 10,
+                "exam": 9,
+                "note": 9.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 88,
+                "absence": 5,
+                "td": 16,
+                "exam": 16,
+                "note": 16,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232695",
+        "password": "2695",
+        "name": "LAMARI AYOUB",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2695",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 86,
+                "absence": 0,
+                "td": 14,
+                "exam": 7,
+                "note": 9.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 78,
+                "absence": 3,
+                "td": 16,
+                "exam": 16,
+                "note": 16,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 99,
+                "absence": 3,
+                "td": 8,
+                "exam": 17,
+                "note": 13.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 85,
+                "absence": 1,
+                "td": 19,
+                "exam": 18,
+                "note": 18.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 89,
+                "absence": 3,
+                "td": 9,
+                "exam": 7,
+                "note": 7.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 69,
+                "absence": 1,
+                "td": 11,
+                "exam": 13,
+                "note": 12.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232696",
+        "password": "2696",
+        "name": "LAOUAMI MOSTEFA AYOUB",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2696",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 81,
+                "absence": 1,
+                "td": 14,
+                "exam": 16,
+                "note": 15.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 65,
+                "absence": 2,
+                "td": 9,
+                "exam": 9,
+                "note": 9,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 98,
+                "absence": 2,
+                "td": 9,
+                "exam": 8,
+                "note": 8.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 99,
+                "absence": 4,
+                "td": 15,
+                "exam": 12,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 72,
+                "absence": 4,
+                "td": 11,
+                "exam": 15,
+                "note": 13.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 60,
+                "absence": 1,
+                "td": 10,
+                "exam": 7,
+                "note": 8.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232697",
+        "password": "2697",
+        "name": "LARAB MERIEM",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2697",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 86,
+                "absence": 3,
+                "td": 11,
+                "exam": 11,
+                "note": 11,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 72,
+                "absence": 5,
+                "td": 13,
+                "exam": 17,
+                "note": 15.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 87,
+                "absence": 4,
+                "td": 19,
+                "exam": 14,
+                "note": 16,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 79,
+                "absence": 2,
+                "td": 14,
+                "exam": 19,
+                "note": 17,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 61,
+                "absence": 3,
+                "td": 17,
+                "exam": 19,
+                "note": 18.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 66,
+                "absence": 0,
+                "td": 13,
+                "exam": 15,
+                "note": 14.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232698",
+        "password": "2698",
+        "name": "LEULMI CHAHD YASMINE",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2698",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 77,
+                "absence": 5,
+                "td": 14,
+                "exam": 14,
+                "note": 14,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 92,
+                "absence": 3,
+                "td": 15,
+                "exam": 13,
+                "note": 13.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 64,
+                "absence": 3,
+                "td": 12,
+                "exam": 10,
+                "note": 10.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 93,
+                "absence": 0,
+                "td": 9,
+                "exam": 17,
+                "note": 13.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 85,
+                "absence": 1,
+                "td": 15,
+                "exam": 19,
+                "note": 17.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 71,
+                "absence": 2,
+                "td": 15,
+                "exam": 13,
+                "note": 13.8,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232699",
+        "password": "2699",
+        "name": "MEKDICHE IYAD",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2699",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 82,
+                "absence": 1,
+                "td": 17,
+                "exam": 19,
+                "note": 18.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 80,
+                "absence": 2,
+                "td": 17,
+                "exam": 15,
+                "note": 15.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 71,
+                "absence": 3,
+                "td": 18,
+                "exam": 11,
+                "note": 13.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 83,
+                "absence": 0,
+                "td": 8,
+                "exam": 12,
+                "note": 10.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 77,
+                "absence": 5,
+                "td": 9,
+                "exam": 16,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 73,
+                "absence": 3,
+                "td": 15,
+                "exam": 7,
+                "note": 10.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326100",
+        "password": "26100",
+        "name": "MERINI INAS",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26100",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 96,
+                "absence": 2,
+                "td": 13,
+                "exam": 10,
+                "note": 11.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 62,
+                "absence": 3,
+                "td": 12,
+                "exam": 11,
+                "note": 11.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 84,
+                "absence": 0,
+                "td": 8,
+                "exam": 9,
+                "note": 8.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 94,
+                "absence": 3,
+                "td": 19,
+                "exam": 7,
+                "note": 11.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 80,
+                "absence": 2,
+                "td": 19,
+                "exam": 7,
+                "note": 11.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 85,
+                "absence": 0,
+                "td": 15,
+                "exam": 19,
+                "note": 17.4,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326101",
+        "password": "26101",
+        "name": "MESSAOUDI MOHAMED ABDERRAHIM",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26101",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 62,
+                "absence": 4,
+                "td": 12,
+                "exam": 10,
+                "note": 10.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 75,
+                "absence": 0,
+                "td": 19,
+                "exam": 10,
+                "note": 13.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 74,
+                "absence": 3,
+                "td": 15,
+                "exam": 18,
+                "note": 16.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 61,
+                "absence": 5,
+                "td": 11,
+                "exam": 19,
+                "note": 15.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 92,
+                "absence": 0,
+                "td": 14,
+                "exam": 19,
+                "note": 17,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 80,
+                "absence": 5,
+                "td": 16,
+                "exam": 8,
+                "note": 11.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326102",
+        "password": "26102",
+        "name": "NEMRI AMANI BELKIS",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26102",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 78,
+                "absence": 3,
+                "td": 9,
+                "exam": 16,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 76,
+                "absence": 0,
+                "td": 10,
+                "exam": 11,
+                "note": 10.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 88,
+                "absence": 4,
+                "td": 18,
+                "exam": 19,
+                "note": 18.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 62,
+                "absence": 4,
+                "td": 13,
+                "exam": 13,
+                "note": 13,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 64,
+                "absence": 1,
+                "td": 17,
+                "exam": 17,
+                "note": 17,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 82,
+                "absence": 3,
+                "td": 8,
+                "exam": 8,
+                "note": 8,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326103",
+        "password": "26103",
+        "name": "OGAB ANFAL",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26103",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 68,
+                "absence": 1,
+                "td": 19,
+                "exam": 18,
+                "note": 18.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 69,
+                "absence": 5,
+                "td": 10,
+                "exam": 16,
+                "note": 13.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 88,
+                "absence": 1,
+                "td": 14,
+                "exam": 16,
+                "note": 15.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 88,
+                "absence": 2,
+                "td": 11,
+                "exam": 17,
+                "note": 14.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 95,
+                "absence": 1,
+                "td": 9,
+                "exam": 8,
+                "note": 8.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 90,
+                "absence": 4,
+                "td": 14,
+                "exam": 14,
+                "note": 14,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326104",
+        "password": "26104",
+        "name": "OGAB MOUATEZ DIA EDDINE",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26104",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 72,
+                "absence": 5,
+                "td": 19,
+                "exam": 15,
+                "note": 16.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 87,
+                "absence": 3,
+                "td": 11,
+                "exam": 9,
+                "note": 9.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 91,
+                "absence": 0,
+                "td": 8,
+                "exam": 8,
+                "note": 8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 88,
+                "absence": 2,
+                "td": 14,
+                "exam": 16,
+                "note": 15.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 66,
+                "absence": 3,
+                "td": 13,
+                "exam": 9,
+                "note": 10.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 68,
+                "absence": 1,
+                "td": 13,
+                "exam": 8,
+                "note": 10,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326105",
+        "password": "26105",
+        "name": "OUANNAS SOUMAYA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26105",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 87,
+                "absence": 1,
+                "td": 17,
+                "exam": 14,
+                "note": 15.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 87,
+                "absence": 5,
+                "td": 14,
+                "exam": 19,
+                "note": 17,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 86,
+                "absence": 3,
+                "td": 15,
+                "exam": 11,
+                "note": 12.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 84,
+                "absence": 1,
+                "td": 12,
+                "exam": 16,
+                "note": 14.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 74,
+                "absence": 4,
+                "td": 15,
+                "exam": 11,
+                "note": 12.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 84,
+                "absence": 5,
+                "td": 9,
+                "exam": 10,
+                "note": 9.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326106",
+        "password": "26106",
+        "name": "OUCIEF DIYAA EL HAK",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26106",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 84,
+                "absence": 4,
+                "td": 12,
+                "exam": 16,
+                "note": 14.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 89,
+                "absence": 3,
+                "td": 12,
+                "exam": 15,
+                "note": 13.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 100,
+                "absence": 3,
+                "td": 14,
+                "exam": 14,
+                "note": 14,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 70,
+                "absence": 2,
+                "td": 8,
+                "exam": 17,
+                "note": 13.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 81,
+                "absence": 0,
+                "td": 9,
+                "exam": 13,
+                "note": 11.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 93,
+                "absence": 0,
+                "td": 19,
+                "exam": 10,
+                "note": 13.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326107",
+        "password": "26107",
+        "name": "OUCIF ABDELDJALIL",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26107",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 68,
+                "absence": 5,
+                "td": 17,
+                "exam": 8,
+                "note": 11.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 100,
+                "absence": 4,
+                "td": 13,
+                "exam": 8,
+                "note": 10,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 84,
+                "absence": 3,
+                "td": 18,
+                "exam": 8,
+                "note": 12,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 64,
+                "absence": 0,
+                "td": 9,
+                "exam": 16,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 95,
+                "absence": 4,
+                "td": 9,
+                "exam": 9,
+                "note": 9,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 90,
+                "absence": 3,
+                "td": 16,
+                "exam": 13,
+                "note": 14.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326108",
+        "password": "26108",
+        "name": "RAHABI IMEN",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26108",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 68,
+                "absence": 4,
+                "td": 15,
+                "exam": 18,
+                "note": 16.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 73,
+                "absence": 3,
+                "td": 18,
+                "exam": 9,
+                "note": 12.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 74,
+                "absence": 3,
+                "td": 8,
+                "exam": 8,
+                "note": 8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 71,
+                "absence": 4,
+                "td": 19,
+                "exam": 16,
+                "note": 17.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 100,
+                "absence": 4,
+                "td": 10,
+                "exam": 7,
+                "note": 8.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 95,
+                "absence": 4,
+                "td": 9,
+                "exam": 11,
+                "note": 10.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326109",
+        "password": "26109",
+        "name": "RAHEB ACHARF ABDEL KARIM",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26109",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 85,
+                "absence": 2,
+                "td": 8,
+                "exam": 17,
+                "note": 13.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 100,
+                "absence": 4,
+                "td": 19,
+                "exam": 10,
+                "note": 13.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 71,
+                "absence": 3,
+                "td": 15,
+                "exam": 18,
+                "note": 16.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 75,
+                "absence": 0,
+                "td": 8,
+                "exam": 8,
+                "note": 8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 80,
+                "absence": 3,
+                "td": 12,
+                "exam": 13,
+                "note": 12.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 60,
+                "absence": 3,
+                "td": 18,
+                "exam": 15,
+                "note": 16.2,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326110",
+        "password": "26110",
+        "name": "SAHI CHAHED",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26110",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 91,
+                "absence": 0,
+                "td": 13,
+                "exam": 19,
+                "note": 16.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 66,
+                "absence": 2,
+                "td": 13,
+                "exam": 10,
+                "note": 11.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 99,
+                "absence": 4,
+                "td": 19,
+                "exam": 9,
+                "note": 13,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 67,
+                "absence": 5,
+                "td": 11,
+                "exam": 13,
+                "note": 12.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 75,
+                "absence": 2,
+                "td": 15,
+                "exam": 14,
+                "note": 14.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 87,
+                "absence": 1,
+                "td": 15,
+                "exam": 8,
+                "note": 10.8,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326111",
+        "password": "26111",
+        "name": "SAIHIA MOSTAFA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26111",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 89,
+                "absence": 2,
+                "td": 16,
+                "exam": 11,
+                "note": 13,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 91,
+                "absence": 4,
+                "td": 19,
+                "exam": 15,
+                "note": 16.6,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 81,
+                "absence": 4,
+                "td": 17,
+                "exam": 10,
+                "note": 12.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 80,
+                "absence": 2,
+                "td": 19,
+                "exam": 14,
+                "note": 16,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 68,
+                "absence": 0,
+                "td": 8,
+                "exam": 10,
+                "note": 9.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 100,
+                "absence": 0,
+                "td": 12,
+                "exam": 13,
+                "note": 12.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326112",
+        "password": "26112",
+        "name": "ZENATI REDHA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26112",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 75,
+                "absence": 3,
+                "td": 9,
+                "exam": 16,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 91,
+                "absence": 0,
+                "td": 10,
+                "exam": 19,
+                "note": 15.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 100,
+                "absence": 5,
+                "td": 11,
+                "exam": 14,
+                "note": 12.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 63,
+                "absence": 2,
+                "td": 16,
+                "exam": 9,
+                "note": 11.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 80,
+                "absence": 4,
+                "td": 15,
+                "exam": 14,
+                "note": 14.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 73,
+                "absence": 2,
+                "td": 17,
+                "exam": 17,
+                "note": 17,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326113",
+        "password": "26113",
+        "name": "ZERIBI LINDA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26113",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 77,
+                "absence": 2,
+                "td": 18,
+                "exam": 10,
+                "note": 13.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 76,
+                "absence": 0,
+                "td": 19,
+                "exam": 17,
+                "note": 17.8,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 71,
+                "absence": 3,
+                "td": 14,
+                "exam": 19,
+                "note": 17,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 66,
+                "absence": 0,
+                "td": 14,
+                "exam": 16,
+                "note": 15.2,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 97,
+                "absence": 2,
+                "td": 17,
+                "exam": 16,
+                "note": 16.4,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 86,
+                "absence": 3,
+                "td": 19,
+                "exam": 10,
+                "note": 13.6,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "202326130",
+        "password": "26130",
+        "name": "ZOUAOUI LAICHE IKRAM",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-26130",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "2023202326114",
+        "password": "202326114",
+        "name": "AAAAA CCCCC",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-202326114",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "2023202326115",
+        "password": "202326115",
+        "name": "AZAZAZ AZAZZA",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-202326115",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "2023202326116",
+        "password": "202326116",
+        "name": "ERERERER",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-202326116",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    },
+    {
+        "id": "20232023166",
+        "password": "2023166",
+        "name": "AZERT",
+        "level": "L2 Informatique",
+        "field": "Informatique",
+        "group": "Groupe 2",
+        "section": "Section A",
+        "photo": "logo.png",
+        "card_number": "UCB-2023-2023166",
+        "courses": [
+            {
+                "name": "Algorithmes et structures de données",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Architecture d’ordinateur",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Système Information",
+                "credit": 4,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Théorie de graphes",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Méthode Numérique",
+                "credit": 5,
+                "coef": 2,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            },
+            {
+                "name": "Logique mathématique",
+                "credit": 6,
+                "coef": 3,
+                "progress": 0,
+                "absence": 0,
+                "td": 0,
+                "exam": 0,
+                "note": 0,
+                "admin_note": ""
+            }
+        ],
+        "timetable": [
+            {
+                "day": "Dimanche",
+                "time": "08:00 - 09:30",
+                "course": "Algorithmes et structures de données",
+                "room": "Salle B12",
+                "type": "Cours"
+            },
+            {
+                "day": "Dimanche",
+                "time": "10:00 - 11:30",
+                "course": "Architecture d’ordinateur",
+                "room": "Salle C04",
+                "type": "TD"
+            },
+            {
+                "day": "Lundi",
+                "time": "08:00 - 09:30",
+                "course": "Système Information",
+                "room": "Salle A08",
+                "type": "Cours"
+            },
+            {
+                "day": "Mardi",
+                "time": "10:00 - 11:30",
+                "course": "Théorie de graphes",
+                "room": "Amphi 2",
+                "type": "Cours"
+            },
+            {
+                "day": "Mercredi",
+                "time": "08:00 - 09:30",
+                "course": "Méthode Numérique",
+                "room": "Lab 1",
+                "type": "TP"
+            },
+            {
+                "day": "Jeudi",
+                "time": "10:00 - 11:30",
+                "course": "Logique mathématique",
+                "room": "Salle B05",
+                "type": "TD"
+            }
+        ]
+    }
+]
