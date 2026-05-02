@@ -921,3 +921,65 @@ footer p {
   color: #08702f !important;
   transform: translateY(-5px);
 }
+/* ===== MOBILE NAV FIX ===== */
+
+@media (max-width: 900px) {
+  .nav,
+  .nav-content,
+  .header-inner {
+    height: auto;
+    padding: 16px 0;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .menu,
+  .main-nav,
+  nav {
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+  }
+
+  .menu a,
+  .main-nav a,
+  nav a {
+    font-size: 14px;
+    background: rgba(8,112,47,.08);
+    padding: 9px 12px;
+    border-radius: 999px;
+  }
+
+  .portal-btn {
+    display: inline-flex !important;
+    padding: 12px 18px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 500px) {
+  .brand {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .brand img {
+    width: 54px;
+    height: 54px;
+  }
+
+  .menu,
+  .main-nav,
+  nav {
+    gap: 8px;
+  }
+
+  .menu a,
+  .main-nav a,
+  nav a {
+    font-size: 13px;
+    padding: 8px 10px;
+  }
+}
